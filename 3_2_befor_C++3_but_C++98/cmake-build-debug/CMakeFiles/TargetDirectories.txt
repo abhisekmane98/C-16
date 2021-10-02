@@ -1,0 +1,3 @@
+F:/4. Codes/C++  2021/C++6 Clion/3_2_befor_C++3_but_C++98/cmake-build-debug/CMakeFiles/3_2_befor_C__3_but_C__98.dir
+F:/4. Codes/C++  2021/C++6 Clion/3_2_befor_C++3_but_C++98/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/4. Codes/C++  2021/C++6 Clion/3_2_befor_C++3_but_C++98/cmake-build-debug/CMakeFiles/rebuild_cache.dir

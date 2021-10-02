@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+F:/4. Codes/C++  2021/C++6 Clion/4_operator_int/Class_4.cpp
+Class_4.h
+F:/4. Codes/C++  2021/C++6 Clion/4_operator_int/Class_4.h
+stdlib.h
+-
+iostream
+-
+cstring
+-
+
+F:/4. Codes/C++  2021/C++6 Clion/4_operator_int/Class_4.h
+
