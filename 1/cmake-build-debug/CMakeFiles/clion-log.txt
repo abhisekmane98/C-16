@@ -1,0 +1,1 @@
+CMakeLists.txt not found in F:\4. Codes\C++  2021\C++6 Clion\1 Select CMakeLists.txt

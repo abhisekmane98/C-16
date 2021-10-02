@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+F:/4. Codes/C++  2021/C++6 Clion/3_1_printing_reference_to_input_stream_after_C++11_but_C++14/main.cpp
+iostream
+-
+
