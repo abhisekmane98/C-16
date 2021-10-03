@@ -1,0 +1,3 @@
+F:/4. Codes/C++  2021/C++6 Clion/15_binary_file_handling/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/4. Codes/C++  2021/C++6 Clion/15_binary_file_handling/cmake-build-debug/CMakeFiles/15_binary_file_handling.dir
+F:/4. Codes/C++  2021/C++6 Clion/15_binary_file_handling/cmake-build-debug/CMakeFiles/rebuild_cache.dir

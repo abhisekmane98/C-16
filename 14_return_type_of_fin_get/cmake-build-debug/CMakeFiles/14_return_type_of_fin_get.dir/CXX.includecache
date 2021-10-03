@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+F:/4. Codes/C++  2021/C++6 Clion/14_return_type_of_fin_get/main.cpp
+iostream
+-
+fstream
+-
+
