@@ -1,0 +1,3 @@
+F:/4. Codes/C++  2021/C++6 Clion/12_nullptr_type/cmake-build-debug/CMakeFiles/12_nullptr_type.dir
+F:/4. Codes/C++  2021/C++6 Clion/12_nullptr_type/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/4. Codes/C++  2021/C++6 Clion/12_nullptr_type/cmake-build-debug/CMakeFiles/rebuild_cache.dir
