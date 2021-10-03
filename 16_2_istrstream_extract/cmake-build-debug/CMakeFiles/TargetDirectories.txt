@@ -1,0 +1,3 @@
+H:/4. Codes/C++  2021/C++6 Clion/16_2_istrstream_extract/cmake-build-debug/CMakeFiles/edit_cache.dir
+H:/4. Codes/C++  2021/C++6 Clion/16_2_istrstream_extract/cmake-build-debug/CMakeFiles/16_2_istrstream_extract.dir
+H:/4. Codes/C++  2021/C++6 Clion/16_2_istrstream_extract/cmake-build-debug/CMakeFiles/rebuild_cache.dir
