@@ -1,0 +1,3 @@
+F:/4. Codes/C++  2021/C++6 Clion/8_ifstream_fin_is_create_file_if_not_present/cmake-build-debug/CMakeFiles/8_ifstream_fin_is_create_file_if_not_present.dir
+F:/4. Codes/C++  2021/C++6 Clion/8_ifstream_fin_is_create_file_if_not_present/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/4. Codes/C++  2021/C++6 Clion/8_ifstream_fin_is_create_file_if_not_present/cmake-build-debug/CMakeFiles/rebuild_cache.dir
