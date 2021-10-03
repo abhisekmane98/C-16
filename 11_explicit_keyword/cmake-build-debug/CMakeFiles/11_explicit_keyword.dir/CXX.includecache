@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+F:/4. Codes/C++  2021/C++6 Clion/11_explicit_keyword/class_11.h
+
+F:/4. Codes/C++  2021/C++6 Clion/11_explicit_keyword/main.cpp
+class_11.h
+F:/4. Codes/C++  2021/C++6 Clion/11_explicit_keyword/class_11.h
+iostream
+-
+
