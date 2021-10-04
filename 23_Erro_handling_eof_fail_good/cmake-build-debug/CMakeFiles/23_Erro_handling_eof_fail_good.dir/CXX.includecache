@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+H:/4. Codes/C++  2021/C++6 Clion/23_Erro_handling_eof_fail_good/main.cpp
+iostream
+-
+fstream
+-
+
